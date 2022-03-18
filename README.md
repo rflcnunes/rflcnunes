@@ -4,13 +4,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rflcstnunes/)
 
 ### About me
-- 🔭 I'm a {fullstack} developer
-- 🌱 I’m currently learning PHP/Laravel and Vue JS for Front End.
-- 🌱 I'm currently studying systems analysis development and cyber defense.
+- 👨🏻‍💻 I'm a {fullstack} developer
+- ⚙️ I’m currently learning PHP/Laravel and Vue JS for Front End.
+- 👨🏻‍🎓 I'm currently studying systems analysis development and cyber defense.
+- 👔 I am currently a software development intern.
 
 <hr>
 
-- [Courses](https://drive.google.com/file/d/1jwEyUyZNKVNli-vo6EdCnZiVhMCccrYo/view?usp=sharing) 💻 - It's are technical courses on many technologies, such as PHP, Laravel, JavaScript, VueJS, Docker, HTML/CSS, SQL/MySQL, Git and more.
+- 📁 [Courses](https://drive.google.com/file/d/1jwEyUyZNKVNli-vo6EdCnZiVhMCccrYo/view?usp=sharing) - It's are technical courses on many technologies, such as PHP, Laravel, JavaScript, VueJS, Docker, HTML/CSS, SQL/MySQL, Git and more.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rflcnunes&" alt="rflcnunes" /></p>
 
