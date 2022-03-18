@@ -4,10 +4,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rflcstnunes/)
 
 ### About me
-- 👨🏻‍💻 |  I'm a {fullstack} developer
-- ⚙️ |  I’m learning PHP/Laravel and Vue JS for Front End.
-- 👨🏻‍🎓 |  I'm studying systems analysis development and cyber defense.
-- 👔 |  I am a software development intern.
+- 👨🏻‍💻 I'm a {fullstack} developer
+- ⚙️ I’m learning PHP/Laravel and Vue JS for Front End.
+- 👨🏻‍🎓 I'm studying systems analysis development and cyber defense.
+- 👔 I am a software development intern.
 
 <hr>
 
