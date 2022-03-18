@@ -14,9 +14,4 @@
 
 <br>
 
-<div>
-<a href="https://github.com/rflcnunes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rflcnunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-![Snake animation](https://github.com/rflcnunes/rflcnunes/blob/output/github-contribution-grid-snake.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rflcnunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
