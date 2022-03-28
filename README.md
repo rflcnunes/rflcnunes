@@ -13,7 +13,6 @@
 
 - 📁 [Courses](https://drive.google.com/file/d/1jwEyUyZNKVNli-vo6EdCnZiVhMCccrYo/view?usp=sharing) - It's are technical courses on many technologies, such as PHP, Laravel, JavaScript, VueJS, Docker, HTML/CSS, SQL/MySQL, Git and more.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rflcnunes&" alt="rflcnunes" /></p>
 
 ### Technologies
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.linkedin.com/in/rflcstnunes/)
