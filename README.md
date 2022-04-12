@@ -6,7 +6,7 @@
 ### About me
 - 👨🏻‍💻    I'm a {fullstack} developer
 - ⚙️    I’m learning PHP/Laravel for Back End and Vue JS for Front End.
-- 👨🏻‍🎓    I'm studying systems analysis development and cyber defense.
+- 👨🏻‍🎓    I'm studying systems analysis development.
 - 👔    I am a software development intern.
 
 <hr>
