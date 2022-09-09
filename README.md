@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rflcstnunes/)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=rflcnunes)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?rflcnunes=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?rflcnunes=willianrod)](https://github.com/rflcnunes/github-readme-stats)
 
 ### About me
 - 👨🏻‍💻    I'm a {fullstack} developer
