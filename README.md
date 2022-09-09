@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rflcnunes)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rflcstnunes/)
+![Profile View Counter](https://komarev.com/ghpvc/?username=rflcnunes)
 
 ### About me
 - 👨🏻‍💻    I'm a {fullstack} developer
@@ -10,7 +11,6 @@
 - 👔    I am a software development intern.
 
 <hr>
-![Profile View Counter](https://komarev.com/ghpvc/?username=rflcnunes)
 
 - 📁 [Courses](https://drive.google.com/file/d/1lLOzYVFMUFAs0fU_c83h0WIqOaqTdYQV/view?usp=sharing) - It's are technical courses on many technologies, such as PHP, Laravel, JavaScript, VueJS, Docker, HTML/CSS, SQL/MySQL, Git and more.
 
