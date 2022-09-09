@@ -10,6 +10,7 @@
 - 👔    I am a software development intern.
 
 <hr>
+![Profile View Counter](https://komarev.com/ghpvc/?username=rflcnunes)
 
 - 📁 [Courses](https://drive.google.com/file/d/1lLOzYVFMUFAs0fU_c83h0WIqOaqTdYQV/view?usp=sharing) - It's are technical courses on many technologies, such as PHP, Laravel, JavaScript, VueJS, Docker, HTML/CSS, SQL/MySQL, Git and more.
 
@@ -23,6 +24,4 @@
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.linkedin.com/in/rflcstnunes/)
 [![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://www.linkedin.com/in/rflcstnunes/)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.linkedin.com/in/rflcstnunes/)
-![Profile View Counter](https://komarev.com/ghpvc/?username=rflcnunes)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?rflcnunes=Tanu-N-Prabhu&theme=blue-green)
 
