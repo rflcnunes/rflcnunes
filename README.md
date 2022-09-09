@@ -24,4 +24,5 @@
 [![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://www.linkedin.com/in/rflcstnunes/)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.linkedin.com/in/rflcstnunes/)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=rflcnunes)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?rflcnunes=Tanu-N-Prabhu&theme=blue-green)
 
