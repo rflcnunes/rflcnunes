@@ -23,4 +23,5 @@
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.linkedin.com/in/rflcstnunes/)
 [![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://www.linkedin.com/in/rflcstnunes/)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.linkedin.com/in/rflcstnunes/)
+![Profile View Counter](https://komarev.com/ghpvc/?username=rflcnunes)
 
