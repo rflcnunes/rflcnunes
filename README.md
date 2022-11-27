@@ -8,7 +8,7 @@
 - 👨🏻‍💻    I'm a {fullstack} developer
 - ⚙️    I’m learning Java/Spring Boot, PHP/Laravel for Back End and Vue JS for Front End.
 - 👨🏻‍🎓    I'm studying computer science.
-- 👔    I am a software development intern.
+- 👔    I am a software developer.
 
 <hr>
 
