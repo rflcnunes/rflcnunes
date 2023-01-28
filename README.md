@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rflcnunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rflcnunes&theme=tokyonight" alt="mystreak"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=rflcnunes&theme=juicyfresh&no-bg=true" />
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=rflcnunes)](https://github.com/rflcnunes/github-readme)
 
 
