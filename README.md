@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rflcnunes)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rflcstnunes/)
-![Profile View Counter](https://komarev.com/ghpvc/?username=rflcnunes)
+
 <img src="https://komarev.com/ghpvc/?username=rflcnunes&color=brightgreen" alt="watching_count" />
 
 
@@ -29,8 +29,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rflcnunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rflcnunes&theme=tokyonight" alt="mystreak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rflcnunes&theme=juicyfresh&no-bg=true" />
-
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
-
