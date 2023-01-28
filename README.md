@@ -32,6 +32,5 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=rflcnunes&theme=juicyfresh&no-bg=true" />
 
-
-![Snake animation](https://github.com/rflcnunes/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
