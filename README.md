@@ -31,3 +31,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rflcnunes&theme=tokyonight" alt="mystreak"/>
 
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=rflcnunes)](https://github.com/madushadhanushka/github-readme)
+
+
