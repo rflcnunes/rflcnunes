@@ -35,3 +35,5 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rflcnunes&theme=tokyonight" alt="mystreak"/>
 </p>
+
+[![Metrics](/github-metrics.svg)](https://github.com/rflcnunes)
