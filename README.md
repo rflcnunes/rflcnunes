@@ -12,10 +12,6 @@
 - 👨🏻‍🎓    I'm studying computer science.
 - 👔    I am a software developer at Appmax.
 
-<hr>
-
-- 📁 [Courses](https://drive.google.com/file/d/1lLOzYVFMUFAs0fU_c83h0WIqOaqTdYQV/view?usp=sharing) - It's are technical courses on many technologies, such as PHP, Laravel, JavaScript, VueJS, Docker, HTML/CSS, SQL/MySQL, Git and more.
-
 <!--
 ### Technologies
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.linkedin.com/in/rflcstnunes/)
