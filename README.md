@@ -27,4 +27,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rflcnunes&theme=tokyonight" alt="mystreak"/> -->
 
 <hr>
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=rflcnunes&count_private=true&show_icons=true&hide=contribs)
 
