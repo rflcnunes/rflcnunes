@@ -26,5 +26,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rflcnunes&theme=tokyonight" alt="mystreak"/> -->
 
 <hr>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rflcnunes&theme=tokyonight" alt="mystreak"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rflcnunes&theme=tokyonight" alt="mystreak"/> -->
 
