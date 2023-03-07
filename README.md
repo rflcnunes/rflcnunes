@@ -5,13 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=rflcnunes&color=brightgreen" alt="watching_count" />
 
-
-### About me
-- 👨🏻‍💻    I'm a {fullstack} developer
-- ⚙️    I’m learning NodeJS/NestJS and PHP/Laravel for Back End and Vue JS for Front End.
-- 👔    I am a software developer at Appmax.
-
-# 💫 About Me:
+### 💫 About Me:
 👨🏻‍💻    I'm a {fullstack} developer<br>⚙️    I’m learning NodeJS/NestJS and PHP/Laravel for Back End and Vue JS for Front End.<br>👔    I am a software developer at Appmax.<br>
 
 ## 🌐 Socials:
