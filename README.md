@@ -12,6 +12,8 @@
 #### Private Repositories: 100
 #### Public Repositories: 1
 
+If you want to know more, contact me, I would love to explain my projects to you. 😄
+
 <img src="https://komarev.com/ghpvc/?username=rflcnunes&color=brightgreen" alt="watching_count" />
 
 ### 💻 Tech Stack:
