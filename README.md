@@ -9,8 +9,8 @@
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rflcstnunes/) 
 
-#### Private Repositories: 100
-#### Public Repositories: 1
+#### Private Repositories: 101
+#### Public Repositories: 4
 
 If you want to know more, contact me, I would love to explain my projects to you. 😄
 
