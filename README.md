@@ -1,4 +1,4 @@
-# Rafael Nunes
+# Rafael da Costa Nunes
 
 **Senior Software Engineer** — Go, TypeScript, Vue/Nuxt and AWS.
 Portfolio → **[rafael.orbitruz.com](https://rafael.orbitruz.com)**
